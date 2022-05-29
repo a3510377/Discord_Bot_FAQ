@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,b as o}from"./app.c6086a77.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"javascript/index.md"}',s={},r=o("p",null,"\u5C1A\u7121\u8CC7\u6599",-1),n=[r];function c(_,i,d,p,l,f){return t(),a("div",null,n)}var h=e(s,[["render",c]]);export{u as __pageData,h as default};
